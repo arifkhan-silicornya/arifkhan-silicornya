@@ -19,17 +19,17 @@ Skills: HTML / CSS / Javascript / PHP / Laravel / PYTHON / DJANGO / MACHINE LEAR
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-khan-420)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifkhan-silicornya)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arif-khan-420&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifkhan-silicornya&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arif-khan-420)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifkhan-silicornya)  
 
-![GitHub metrics](https://metrics.lecoq.io/arif-khan-420)  
+![GitHub metrics](https://metrics.lecoq.io/arifkhan-silicornya)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arif-khan-420)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arifkhan-silicornya)  
 
-![Profile views](https://gpvc.arturio.dev/arif-khan-420)  
+![Profile views](https://gpvc.arturio.dev/arifkhan-silicornya)  
 
 
 
