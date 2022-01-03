@@ -22,7 +22,7 @@ Skills: HTML / CSS / Javascript / PHP / Laravel / PYTHON / DJANGO / MACHINE LEAR
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifkhan-silicornya)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifkhan-silicornya&show_icons=true&count_private=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifkhan-silicornya&show_icons=true&count_private=true&theme=dracula)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifkhan-silicornya)  
 
