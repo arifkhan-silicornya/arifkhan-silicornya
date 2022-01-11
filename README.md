@@ -10,6 +10,7 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>CSS Framework :</b> Bootstrap / TailwindCSS / <br />
   <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / <br />
   <b>Machine Learning :</b> Python / Machine Learning / <br />
+  <b>OS : </b> Windows / Linux(Ubuntu) / 
   
   
 - 🔭 I’m currently working on a Group 
