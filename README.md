@@ -5,7 +5,7 @@
 
 I am an experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. A skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success. I have always loved to learn.
 
-Skills: <br />
+<u> Skills:</u> <br />
   Web-Technology : HTML / CSS / Javascript / PHP / Laravel /  Django / React /  Node / Express / <br />
   CSS Framework : Bootstrap / TailwindCSS / <br />
   Database : MongoDB / MySQL / Postgresql / SQLite / <br />
