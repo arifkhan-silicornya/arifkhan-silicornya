@@ -12,18 +12,6 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>Machine Learning :</b> Python / Machine Learning / <br />
   <b>OS : </b> Windows / Linux(Ubuntu) / 
   
-  <h3>integrated development environment (IDE)</h3>
-  <ul>
-    <li>Notepad++</li>
-    <li>Visual Studio Code</li>
-    <li>Sublime Tex</li>
-    <li>Atom</li>
-    <li>NetBeans</li>
-    <li>IntelliJ IDEA</li>
-    <li>PyCharm</li>
-    <li>WebStorm</li>
-    <li>PhpStorm</li>
-  </ul>
   
 - 🔭 I’m currently working on a Group 
 - 🌱 I’m currently learning Express Js 
