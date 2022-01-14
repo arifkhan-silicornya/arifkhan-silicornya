@@ -14,7 +14,7 @@ I am an experienced software engineer with a passion for developing innovative p
   
   
 - 🔭 I’m currently working on a Group 
-- 🌱 I’m currently learning Node Js 
+- 🌱 I’m currently learning Express Js 
 
 
 <h3 align="left">Connect with me:</h3>
