@@ -8,7 +8,7 @@ I am an experienced software engineer with a passion for developing innovative p
 <i><b> Skills:</b></i> <br />
   <b>Web-Technology :</b> HTML / CSS / Javascript / PHP / Laravel /  Django / React /  Node / Express / <br />
   <b>CSS Framework :</b> Bootstrap / TailwindCSS / <br />
-  <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / <br />
+  <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / MongoDB Atlas / Mongoose <br />
   <b>Machine Learning :</b> Python / Machine Learning / <br />
   <b>OS : </b> Windows / Linux(Ubuntu) / 
   
