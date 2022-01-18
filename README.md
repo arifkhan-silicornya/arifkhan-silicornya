@@ -9,9 +9,9 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>Web-Technology :</b> HTML / CSS / Javascript / PHP / Laravel /  Django / React /  Node / Express / <br />
   <b>CSS Framework :</b> Bootstrap / TailwindCSS / <br />
   <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / MongoDB Atlas / Mongoose <br />
-  <b>Http Client :</b> Axios / Fetch / 
+  <b>Http Client :</b> Axios / Fetch /   <br/>
   <b>Machine Learning :</b> Python / Machine Learning / <br />
-  <b>OS : </b> Windows / Linux(Ubuntu) / 
+  <b>OS : </b> Windows / Linux(Ubuntu) /   <br/>
   <b>Next to Learn : </b> socket.io / WebRTC
   
 - 🔭 I’m currently working on a Group 
