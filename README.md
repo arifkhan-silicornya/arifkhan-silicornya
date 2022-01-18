@@ -12,7 +12,7 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>Http Client :</b> Axios / Fetch / 
   <b>Machine Learning :</b> Python / Machine Learning / <br />
   <b>OS : </b> Windows / Linux(Ubuntu) / 
-  
+  <b>Next to Learn : </b> socket.io / WebRTC
   
 - 🔭 I’m currently working on a Group 
 - 🌱 I’m currently learning Express Js 
