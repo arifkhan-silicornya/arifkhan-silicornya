@@ -16,8 +16,8 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>OS : </b> Windows / Linux(Ubuntu) /   <br/>
   
 - 🔭 I’m currently working on a Group 
-- 🌱 I’m currently learning Express Js 
-= NEXT => socket.io / WebRTC
+- 🌱 I’m currently learning Express Js <br/>
+- NEXT => socket.io / WebRTC
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
