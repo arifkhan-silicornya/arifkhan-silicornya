@@ -14,11 +14,10 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>Http Client :</b> Axios / Fetch /   <br/>
   <b>Machine Learning :</b> Python / Machine Learning / <br />
   <b>OS : </b> Windows / Linux(Ubuntu) /   <br/>
-  <b>Next to Learn : </b> socket.io / WebRTC
   
 - 🔭 I’m currently working on a Group 
 - 🌱 I’m currently learning Express Js 
-
+= NEXT => socket.io / WebRTC
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
