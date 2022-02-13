@@ -21,7 +21,7 @@ I am an experienced software engineer with a passion for developing innovative p
 
 <b>My Node Package :</b>
 <ul>
-  <li> <a href='https://www.npmjs.com/package/local-datetime-allstate'> local-datetime </a> </li>
+  <li> <a href='https://www.npmjs.com/package/local-datetime-allstate'> local-datetime-allstate </a> </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
