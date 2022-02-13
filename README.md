@@ -19,6 +19,13 @@ I am an experienced software engineer with a passion for developing innovative p
 - 🌱 I’m currently learning Express Js <br/>
 - Next => socket.io / WebRTC
 
+<b>My Node Package :</b>
+<ul>
+  <li> <a href='https://www.npmjs.com/package/local-datetime-allstate'> local-datetime </a> <br />
+      <a href='https://github.com/arifkhan-silicornya/Local-DateTime-AllState'> github link </a>
+  </li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/md-khan-487902176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-khan-487902176" height="30" width="40" /></a>
