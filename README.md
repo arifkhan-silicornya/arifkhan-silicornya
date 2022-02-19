@@ -16,7 +16,7 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>OS : </b> Windows / Linux(Ubuntu) /   <br/>
   
 - 🔭 I’m currently working on a Group 
-- 🌱 I’m currently learning Express Js <br/>
+- 🌱 I’m currently A project using ( React + Django ) <br/>
 - Next => socket.io / WebRTC
 
 <b>My Node Package :</b>
