@@ -12,8 +12,8 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>CSS Framework :</b> Bootstrap / TailwindCSS / <br />
   <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / <br />
   <b>Http Client :</b> Axios / Fetch /   <br/>
-  <b>Artificial Intelligence :</b> Machine Learning / Deep Learning<br / Neural Network />
-  <b>OS : </b> Windows / Linux(Ubuntu) /   <br/>
+  <b>Artificial Intelligence :</b> Machine Learning / Deep Learning<br / Neural Network <b/> <br/>
+  <b>OS : </b> Windows / Debian GNU/Linux /   <br/>
   
 - 🔭 I’m currently working with Rexoit
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
