@@ -8,15 +8,15 @@ I am an experienced software engineer with a passion for developing innovative p
 </p>
 
 <i><b> Skills:</b></i> <br />
-  <b>Web-Technology :</b> HTML / CSS / Javascript / PHP / Laravel /  Django / React /  Node / Express / <br />
+  <b>Web-Technology :</b> HTML / CSS / Javascript / React /  Node / Express / Django REST framework / PHP / Laravel /  <br />
   <b>CSS Framework :</b> Bootstrap / TailwindCSS / <br />
-  <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / MongoDB Atlas / Mongoose <br />
+  <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / <br />
   <b>Http Client :</b> Axios / Fetch /   <br/>
-  <b>Machine Learning :</b> Python / Machine Learning / <br />
+  <b>Artificial Intelligence :</b> Machine Learning / Deep Learning<br / Neural Network />
   <b>OS : </b> Windows / Linux(Ubuntu) /   <br/>
   
-- 🔭 I’m currently working on a Group 
-- 🌱 I’m currently A project using ( React + Django ) <br/>
+- 🔭 I’m currently working with Rexoit
+- 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
 - Next => socket.io / WebRTC
 
 <b>My Node Package :</b>
