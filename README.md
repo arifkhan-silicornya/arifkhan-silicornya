@@ -17,7 +17,7 @@ I am an experienced software engineer with a passion for developing innovative p
   
 - 🔭 I’m currently working with Rexoit
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
-- Next => socket.io / WebRTC
+- Next => socket.io / WebRTC / Redis
 
 <b>My Node Package :</b>
 <ul>
