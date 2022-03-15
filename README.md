@@ -8,7 +8,7 @@ I am an experienced software engineer with a passion for developing innovative p
 </p>
 
 <i><b> Skills:</b></i> <br />
-  <b>Web-Technology :</b> HTML / CSS / Javascript / React /  Node / Express / Django REST framework / PHP / Laravel /  <br />
+  <b>Web-Technology :</b> HTML / CSS / Javascript / TypeScript / React /  Node / Express / Django REST framework / PHP / Laravel /  <br />
   <b>CSS Framework :</b> Bootstrap / TailwindCSS / <br />
   <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / <br />
   <b>Http Client :</b> Axios / Fetch /   <br/>
