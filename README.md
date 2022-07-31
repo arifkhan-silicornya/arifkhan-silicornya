@@ -15,7 +15,7 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>Artificial Intelligence :</b> Machine Learning / Deep Learning / Neural Network / <br/>
   <b>OS : </b> Windows / Debian GNU / <br/>
   
-  <b>Other's : </b> Slack  <br/>
+  <b>Other's : </b> Slack  / Docker <br/>
   
 - 🔭 I’m currently working with Rexoit
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
