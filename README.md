@@ -15,7 +15,7 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>Artificial Intelligence :</b> Machine Learning / Deep Learning / Neural Network / <br/>
   <b>OS : </b> Windows / Debian GNU / <br/>
   
-  <b>Other's : </b> Slack  / Docker <br/>
+  <b>Other's : </b> Slack  / Docker / Postman / <br/>
   
 - 🔭 I’m currently working with Rexoit
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
@@ -24,6 +24,8 @@ I am an experienced software engineer with a passion for developing innovative p
 <b>My Node Package :</b>
 <ul>
   <li> <a href='https://www.npmjs.com/package/local-datetime-allstate'> local-datetime-allstate </a> </li>
+  <li> <a href='https://www.npmjs.com/package/airport-iata-codes'> airport-iata-codes </a> </li>
+  
 </ul>
 
 <h3 align="left">Connect with me:</h3>
