@@ -21,7 +21,7 @@ I am an experienced software engineer with a passion for developing innovative p
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
 - Next => socket.io / WebRTC / Redis 
 
-<b>My Node Created Packages list (npm) :</b>
+<b>My Created Node Packages list (npm) :</b>
 <ul>
   <li> <a href='https://www.npmjs.com/package/local-datetime-allstate'> local-datetime-allstate </a> </li>
   <li> <a href='https://www.npmjs.com/package/airport-iata-codes'> airport-iata-codes </a> </li>
