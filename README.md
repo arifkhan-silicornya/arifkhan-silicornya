@@ -13,6 +13,7 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / <br />
   <b>Http Client :</b> Axios / Fetch /   <br/>
   <b>Artificial Intelligence :</b> Machine Learning / Deep Learning / Neural Network / <br/>
+  <b>API : </b> XML API/ REST API / <br/> 
   <b>OS : </b> Windows / Debian GNU / <br/>
   
   <b>Other's : </b> Slack  / Docker / Postman / <br/>
