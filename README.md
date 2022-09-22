@@ -16,7 +16,7 @@ I am an experienced software engineer with a passion for developing innovative p
   <b>API : </b> XML API/ REST API / <br/> 
   <b>OS : </b> Windows / Debian GNU / <br/>
   
-  <b>Other's : </b> Slack  / Docker / Postman / <br/>
+  <b>Other's : </b> Slack  / Docker / Postman / Swagger /<br/>
   
 - 🔭 I’m currently working with Rexoit
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
