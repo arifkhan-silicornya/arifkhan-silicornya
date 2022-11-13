@@ -28,6 +28,7 @@ I am an experienced software engineer with a passion for developing innovative p
   <li> <a href='https://www.npmjs.com/package/airport-iata-codes'> airport-iata-codes </a> </li>
   <li> <a href='https://www.npmjs.com/package/airline-iata-code'> airline-iata-code </a> </li>
   <li> <a href='https://www.npmjs.com/package/filter-country-dial-code-flag'> filter-country-dial-code-flag </a> </li>
+  <li> <a href='https://www.npmjs.com/package/country-currency-list'> country-currency-list </a> </li>
   
 </ul>
 
