@@ -4,7 +4,7 @@
 #### Software Developer
 
 <p style="text-align: justify;">
-I am a 3+ years experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable, reusable, and user-friendly. A skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight its core competencies, and further its success. I have always loved to learn.
+I am a software engineer with 3+ years of experience working with React, Django, Machine Learning, Python, and JavaScript, and I have a passion for developing innovative programs that accelerate efficiency and effectiveness for organizational success. Proficient in technology and writing code to build reliable, reusable, and user-friendly systems. A skilled leader with a proven ability to motivate, educate and manage a team of professionals to develop software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company's organizational needs, highlight its core competencies, and drive its success. I always love to learn.
 </p>
 
 <i><b> Skills:</b></i> <br />
