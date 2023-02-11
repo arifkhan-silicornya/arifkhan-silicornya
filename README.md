@@ -16,7 +16,7 @@ I am a software engineer and well-qualified in full-stack web development with m
   <b>API : </b> XML API/ REST API / <br/> 
   <b>OS : </b> Windows / Debian GNU / <br/>
   
-  <b>Other's : </b> Slack  / Docker / Postman / Swagger /<br/>
+  <b>Other's : </b> Slack  / Docker / Postman / Swagger / WSL2 /<br/>
   
 - 🔭 I’m currently working with Rexoit
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
