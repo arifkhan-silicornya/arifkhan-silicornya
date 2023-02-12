@@ -23,7 +23,7 @@ I am a software engineer and well-qualified in full-stack web development with m
   
   <b>Other's : </b> Slack  / Docker / Postman / Swagger / WSL2 /<br/>
   
-- 🔭 I’m currently working with Rexoit
+- 🔭 I’m currently working at Silicornya
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
 - Next => socket.io / WebRTC / Redis 
 
