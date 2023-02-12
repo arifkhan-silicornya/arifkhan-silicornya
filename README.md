@@ -7,6 +7,11 @@
 I am a software engineer and well-qualified in full-stack web development with more than 4 years of working experience with <b>React, Django, Machine Learning, Python, and JavaScript</b>, and familiar with various programming utilities and languages. I am experienced with building AI models or Machine learning algorithms to make proper decisions & integration into the web or build API. Handles any part of the process with ease. Version controlling, Developing, shipping, and running applications. I have a passion for developing innovative programs that accelerate efficiency and effectiveness for organizational success. Proficient in technology and writing code to build reliable, reusable, and user-friendly systems. A skilled leader with a proven ability to motivate, educate and manage a team of professionals to develop software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company's organizational needs, highlight its core competencies, and drive its success. Collaborative team player with excellent technical abilities offering More than 4 years of related experience. I always love to learn.
 </p>
 
+<b> Feature Projects: </b>
+<ol>
+  <li>Mastermind.travel</li>
+</ol>
+
 <i><b> Skills:</b></i> <br />
   <b>Web-Technology :</b> HTML / CSS / Javascript / TypeScript / React /  Node / Express / Django REST framework / PHP / Laravel /  <br />
   <b>CSS Framework :</b> Bootstrap / TailwindCSS / <br />
