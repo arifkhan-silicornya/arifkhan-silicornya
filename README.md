@@ -39,7 +39,7 @@ I am a software engineer and well-qualified in full-stack web development with m
 
 <b>Small project list :</b>
 <ul>
-  <li> <a href='https://vocal-faloodeh-0a82dd.netlify.app/'> Responsive Hexa shape </a> </li>
+  <li> <a href='https://hexa-shape.netlify.app//'> Responsive Hexa shape </a> </li>
   <li> <a href='https://rock-paper-scissors-arif.netlify.app'> Rock Paper Scissor Game </a> </li>
 </ul>
 
