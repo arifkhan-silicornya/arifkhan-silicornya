@@ -41,6 +41,8 @@ I am a software engineer and well-qualified in full-stack web development with m
 <ul>
   <li> <a href='https://hexa-shape.netlify.app//'> Responsive Hexa shape </a> </li>
   <li> <a href='https://rock-paper-scissors-arif.netlify.app'> Rock Paper Scissor Game </a> </li>
+  <li> <a href='https://digital-clock-arif.netlify.app/'> Digital Clock </a> </li>
+  
 </ul>
 
 
