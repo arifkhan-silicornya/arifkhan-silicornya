@@ -21,7 +21,7 @@ I am a software engineer and well-qualified in full-stack web development with m
   <b>API : </b> XML API/ REST API / <br/> 
   <b>OS : </b> Windows / Debian GNU / <br/>
   
-  <b>Other's : </b> Slack  / Docker / Postman / Swagger / WSL2 / gunicorn / <br/>
+  <b>Other's : </b> Slack  / Docker / Postman / Swagger / WSL2 / gunicorn / nvm / <br/>
   
 - 🔭 I’m currently working at Silicornya
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
