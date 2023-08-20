@@ -43,8 +43,12 @@ I am a software engineer and well-qualified in full-stack web development with m
   <li> <a href='https://rock-paper-scissors-arif.netlify.app'> Rock Paper Scissor Game </a> </li>
   <li> <a href='https://digital-clock-arif.netlify.app/'> Digital Clock </a> </li>
   <li> <a href='https://react-login-page-arif.netlify.app'> React Login Page </a> </li>
-  
-  
+  <li> <a href='https://arif-todo-app.netlify.app'> React Todo App </a> </li>
+  <li> <a href='https://qr-code-generator.netlify.app'> QR Code Generator </a> </li>
+  <li> <a href='https://request-for-proposal-form.netlify.app'> Proposal Form </a> </li>
+  <li> <a href='https://analogue-wall-clock.netlify.app'> Analogue Wall Clock </a> </li>
+  <li> <a href='https://mrxpert.netlify.app'> Mr Xpert </a> </li>
+  <li> <a href='https://password-generator-arif.netlify.app'> Password Generator </a> </li>
 </ul>
 
 
