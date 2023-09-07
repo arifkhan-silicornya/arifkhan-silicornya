@@ -13,7 +13,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
 </ol>
 
 <i><b> Skills:</b></i> <br />
-  <b>Web-Technology:</b> HTML / CSS / Javascript / TypeScript / React /  Node / Express / Django REST framework / PHP / Laravel /  <br />
+  <b>Web-Technology:</b> HTML / CSS / Javascript / TypeScript / React / Vite / Node / Express / Django REST framework / PHP / Laravel /  <br />
   <b>CSS Framework :</b> Bootstrap / TailwindCSS / <br />
   <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / <br />
   <b>Http Client :</b> Axios / Fetch /   <br/>
