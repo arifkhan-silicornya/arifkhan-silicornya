@@ -25,7 +25,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
   
 - 🔭 I’m currently working at Silicornya
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
-- Next => socket.io / WebRTC / Redis 
+- Next => socket.io / WebRTC / Redis / scala
 
 <b>My Node Packages list (npm) :</b>
 <ul>
