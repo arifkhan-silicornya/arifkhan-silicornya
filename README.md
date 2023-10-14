@@ -40,6 +40,8 @@ I am a software engineer and well-qualified full-stack web developer with more t
 <b>Small project list :</b>
 <ul>
   <li> <a href='https://cryptocornya-bot.netlify.app'> Crypto Bot </a> </li>
+  <li> <a href='https://grey-worm.netlify.app'> CV- Grey Worm </a> </li>
+  <li> <a href='https://black-bee-profile.netlify.app'> CV- Black Bee </a> </li>
   <li> <a href='https://domain-it-civil.netlify.app'> Donate IT Civil </a> </li>
   <li> <a href='https://hexa-shape.netlify.app//'> Responsive Hexa shape </a> </li>
   <li> <a href='https://rock-paper-scissors-arif.netlify.app'> Rock Paper Scissor Game </a> </li>
