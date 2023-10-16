@@ -16,9 +16,9 @@ I am a software engineer and well-qualified full-stack web developer with more t
   <b>Web-Technology:</b> HTML / CSS / Javascript / TypeScript / React / Vite / Node / Express / Django REST framework / PHP / Laravel /  <br />
   <b>CSS Framework :</b> Bootstrap / TailwindCSS / <br />
   <b>Database :</b> MongoDB / MySQL / Postgresql / SQLite / <br />
-  <b>Http Client :</b> Axios / Fetch /   <br/>
+  <b>Http Client :</b> Axios / Fetch / Apollo-client /   <br/>
   <b>Artificial Intelligence :</b> Machine Learning / Deep Learning / Neural Network / <br/>
-  <b>API : </b> XML API/ REST API / <br/> 
+  <b>API : </b> XML API/ REST API / Django-GraphQL / <br/> 
   <b>OS : </b> Windows / Debian GNU / <br/>
   
   <b>Other's : </b> Slack  / Docker / Postman / Swagger / WSL2 / gunicorn / Nginx / nvm / <br/>
