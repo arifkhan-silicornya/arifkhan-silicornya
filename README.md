@@ -52,7 +52,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
   <li> <a href='https://request-for-proposal-form.netlify.app'> Proposal Form </a> </li>
   <li> <a href='https://analogue-wall-clock.netlify.app'> Analogue Wall Clock </a> </li>
   <li> <a href='https://mrxpert.netlify.app'> Mr Xpert </a> </li>
-  <li> <a href='https://arifkhan-silicornya.github.io/Vanila_Js_calculator/'> Mr Xpert </a> </li>
+  <li> <a href='https://arifkhan-silicornya.github.io/Vanila_Js_calculator/'> calculator - Vanila-js </a> </li>
   <li> <a href='https://password-generator-arif.netlify.app'> Password Generator </a> </li>
   <li> <a href='https://multi-pass-generator-save-docs.netlify.app'> Multi Pass Generator and download </a> </li>
   <li> <a href='https://fully-responsive-site.netlify.app'> Simple responsive site - 2019 </a> </li>
