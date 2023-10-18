@@ -29,6 +29,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
   <li> <a href='https://mastermind.travel'> Mastermind - React- React-django-rest-framework ( 2022-2023 )  </a> </li>
   <li> <a href='https://arifkhan-silicornya.github.io/Crypto-Currency-Single-Page/'> Crypto-Currency-Single-Page - React - 2022 </a> </li>
   <li> <a href='https://hexa-shape.netlify.app/'> Responsive Hexa shape - React - 2021 </a> </li>
+  <li> <a href='https://github.com/arifkhan-silicornya/Fake_News'> Fake News Detection - Machine Learning - Crawling - Django - HTML, CSS, Javascript  -2021 </a> </li>
   <li> <a href='https://rock-paper-scissors-arif.netlify.app'> Rock Paper Scissor Game - React - 2021 </a> </li>
   <li> <a href='https://digital-clock-arif.netlify.app/'> Digital Clock Page - 2021 </a> </li>
   <li> <a href='https://react-login-page-arif.netlify.app'> React Login Page - 2021 </a> </li>
@@ -48,6 +49,8 @@ I am a software engineer and well-qualified full-stack web developer with more t
   <li> <a href='https://multipart-form-submit.netlify.app'> Multiform - Vanilla Javascript -2018 </a> </li>
   <li> <a href='https://image-hover-effact.netlify.app'> Image Hover Effact -Vanilla Javascript -2018 </a> </li>
   <li> <a href='https://arifkhan-silicornya.github.io/Carousel_Js/'> Simple HTML Carousel -Vanilla Javascript -2018 </a> </li>
+  
+  
 
   
   
