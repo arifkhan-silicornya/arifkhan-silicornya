@@ -21,8 +21,8 @@ I am a software engineer and well-qualified full-stack web developer with more t
 
 <b>Small project list :</b>
 <ul>
-  <li> <a href='https://grey-worm.netlify.app'> CV- Grey Worm - Reactjs - 2023 </a> </li>
-  <li> <a href='https://black-bee-profile.netlify.app'> CV- Black Bee - Reactjs - 2023 </a> </li>
+  <li> <a href='https://grey-worm.netlify.app'> Profile - Grey Worm - Reactjs - 2023 </a> </li>
+  <li> <a href='https://black-bee-profile.netlify.app'> Profile - Black Bee - Reactjs - 2023 </a> </li>
   <li> <a href='https://domain-it-civil.netlify.app'> Donate IT Civil - React - Django-rest-framework 2023 </a> </li>
   <li> <a href='https://flyease.silicornya.net/'> Flyease - React-django-rest-framework ( 2022-2023 )  </a> </li>
   <li> <a href='https://github.com/arifkhan-silicornya/email_send_using_nodejs'> Email Sending System - Node - 2023   </a> </li>
