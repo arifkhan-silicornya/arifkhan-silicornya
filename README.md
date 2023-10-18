@@ -76,6 +76,8 @@ I am a software engineer and well-qualified full-stack web developer with more t
 <ol>
   
   <li> <a href='https://github.com/arifkhan-silicornya/Startech-website-crawling-using-Scrapy'> Startech-website-crawling-using-Scrapy -2021 </a> </li>
+  <li> <a href='https://github.com/arifkhan-silicornya/web_scrapy'> Coin Market Cap Crawl Using BeautifulSoup (private) -2021 </a> </li>
+  
 </ol>
 
 <h3 align="left">Connect with me:</h3>
