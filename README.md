@@ -39,28 +39,30 @@ I am a software engineer and well-qualified full-stack web developer with more t
 
 <b>Small project list :</b>
 <ul>
-  <li> <a href='https://cryptocornya-bot.netlify.app'> Crypto Bot </a> </li>
-  <li> <a href='https://grey-worm.netlify.app'> CV- Grey Worm </a> </li>
-  <li> <a href='https://black-bee-profile.netlify.app'> CV- Black Bee </a> </li>
-  <li> <a href='https://domain-it-civil.netlify.app'> Donate IT Civil </a> </li>
-  <li> <a href='https://arifkhan-silicornya.github.io/Crypto-Currency-Single-Page/'> Crypto-Currency-Single-Page </a> </li>
-  <li> <a href='https://hexa-shape.netlify.app/'> Responsive Hexa shape </a> </li>
-  <li> <a href='https://rock-paper-scissors-arif.netlify.app'> Rock Paper Scissor Game </a> </li>
-  <li> <a href='https://digital-clock-arif.netlify.app/'> Digital Clock </a> </li>
-  <li> <a href='https://react-login-page-arif.netlify.app'> React Login Page </a> </li>
-  <li> <a href='https://arif-todo-app.netlify.app'> React Todo App </a> </li>
-  <li> <a href='https://qr-code-generator-arif.netlify.app'> QR Code Generator </a> </li>
-  <li> <a href='https://request-for-proposal-form.netlify.app'> Proposal Form </a> </li>
-  <li> <a href='https://analogue-wall-clock.netlify.app'> Analogue Wall Clock </a> </li>
-  <li> <a href='https://mrxpert.netlify.app'> Mr Xpert </a> </li>
-  <li> <a href='https://arifkhan-silicornya.github.io/Vanila_Js_calculator/'> calculator - Vanila-js </a> </li>
-  <li> <a href='https://password-generator-arif.netlify.app'> Password Generator </a> </li>
-  <li> <a href='https://multi-pass-generator-save-docs.netlify.app'> Multi Pass Generator and download </a> </li>
+  <li> <a href='https://cryptocornya-bot.netlify.app'> Crypto Bot - React- ( 2021-2022 )  </a> </li>
+  <li> <a href='https://grey-worm.netlify.app'> CV- Grey Worm - Reactjs - 2023 </a> </li>
+  <li> <a href='https://black-bee-profile.netlify.app'> CV- Black Bee - Reactjs - 2023 </a> </li>
+  <li> <a href='https://domain-it-civil.netlify.app'> Donate IT Civil - React - Django-rest-framework 2023 </a> </li>
+  <li> <a href='https://arifkhan-silicornya.github.io/Crypto-Currency-Single-Page/'> Crypto-Currency-Single-Page - React - 2022 </a> </li>
+  <li> <a href='https://hexa-shape.netlify.app/'> Responsive Hexa shape - React - 2021 </a> </li>
+  <li> <a href='https://rock-paper-scissors-arif.netlify.app'> Rock Paper Scissor Game - React - 2021 </a> </li>
+  <li> <a href='https://digital-clock-arif.netlify.app/'> Digital Clock Page - 2021 </a> </li>
+  <li> <a href='https://react-login-page-arif.netlify.app'> React Login Page - 2021 </a> </li>
+  <li> <a href='https://arif-todo-app.netlify.app'> React Todo App  - 2021 </a> </li>
+  <li> <a href='https://qr-code-generator-arif.netlify.app'> QR Code Generator - Vanilla Javascript -2019 </a> </li>
+  <li> <a href='https://request-for-proposal-form.netlify.app'> Proposal Form - Vanilla Javascript - Laravel -2019 </a> </li>
+  <li> <a href='https://mrxpert.netlify.app'> Mr Xpert - Reactjs - 2022 </a> </li>
+  <li> <a href='https://u-food.netlify.app'> U Food - HTML, CSS, Laravel  - 2021 </a> </li>
+  <li> <a href='https://github.com/arifkhan-silicornya/Insurance'> Insurance - PHP -2019 </a> </li>
+  <li> <a href='https://analogue-wall-clock.netlify.app'> Analogue Wall Clock - Vanilla Javascript -2019  </a> </li>
+  <li> <a href='https://arifkhan-silicornya.github.io/Vanila_Js_calculator/'> calculator - Vanila-js -2019 </a> </li>
+  <li> <a href='https://password-generator-arif.netlify.app'> Password Generator - Vanilla Javascript -2019 </a> </li>
+  <li> <a href='https://multi-pass-generator-save-docs.netlify.app'> Multi Pass Generator and download - Vanilla Javascript -2019 </a> </li>
   <li> <a href='https://fully-responsive-site.netlify.app'> Simple responsive site - 2019 </a> </li>
-  <li> <a href='https://u-food.netlify.app'> U Food - 2021 </a> </li>
-  <li> <a href='https://multipart-form-submit.netlify.app'> Multiform - 2021 </a> </li>
-  <li> <a href='https://image-hover-effact.netlify.app'> Image Hover Effact -2018 </a> </li>
-  <li> <a href='https://arifkhan-silicornya.github.io/Carousel_Js/'> Simple HTML Carousel -2018 </a> </li>
+  <li> <a href='https://multipart-form-submit.netlify.app'> Multiform - Vanilla Javascript -2018 </a> </li>
+  <li> <a href='https://image-hover-effact.netlify.app'> Image Hover Effact -Vanilla Javascript -2018 </a> </li>
+  <li> <a href='https://arifkhan-silicornya.github.io/Carousel_Js/'> Simple HTML Carousel -Vanilla Javascript -2018 </a> </li>
+  
   
 
   
