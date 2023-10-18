@@ -43,7 +43,8 @@ I am a software engineer and well-qualified full-stack web developer with more t
   <li> <a href='https://black-bee-profile.netlify.app'> CV- Black Bee - Reactjs - 2023 </a> </li>
   <li> <a href='https://domain-it-civil.netlify.app'> Donate IT Civil - React - Django-rest-framework 2023 </a> </li>
   <li> <a href='https://cryptocornya-bot.netlify.app'> Crypto Bot - React- ( 2021-2022 )  </a> </li>
-  <li> <div onclick="alert('code private')"> Mastermind ( Code - private ) - React- ( 2022-2023 )  </div> </li>
+  <li> <a href='https://flyease.silicornya.net/'> Flyease - React-django-rest-framework ( 2022-2023 )  </a> </li>
+  <li> <button onclick="alert('code private')"> Mastermind ( Code - private ) - React- React-django-rest-framework ( 2022-2023 )  </button> </li>
   <li> <a href='https://arifkhan-silicornya.github.io/Crypto-Currency-Single-Page/'> Crypto-Currency-Single-Page - React - 2022 </a> </li>
   <li> <a href='https://hexa-shape.netlify.app/'> Responsive Hexa shape - React - 2021 </a> </li>
   <li> <a href='https://rock-paper-scissors-arif.netlify.app'> Rock Paper Scissor Game - React - 2021 </a> </li>
