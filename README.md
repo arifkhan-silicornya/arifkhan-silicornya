@@ -21,28 +21,28 @@ I am a software engineer and well-qualified full-stack web developer with more t
 
 <b>Small project list :</b>
 <ul>
-  <li> <a href='https://black-bee-profile.netlify.app'> Profile - Black Bee - Reactjs - 2023  <img align="center" src="star.png" height="30" width="30" /> </a> </li>
-  <li> <a href='https://white-snow-profile.netlify.app/'> Profile - White Snow - Reactjs - 2023 <img align="center" src="star.png" height="30" width="30" /> </a> </li>
+  <li> <a href='https://black-bee-profile.netlify.app'> Profile - Black Bee - Reactjs - 2023  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
+  <li> <a href='https://white-snow-profile.netlify.app/'> Profile - White Snow - Reactjs - 2023 <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://blue-sky-profile.netlify.app/'> Profile - Blue Sky - Reactjs - 2023  </a> </li>
-  <li> <a href='https://grey-worm-profile.netlify.app'> Profile - Grey Worm - Reactjs - 2023 <img align="center" src="star.png" height="30" width="30" /> </a> </li>
-  <li> <a href='https://domain-it-civil.netlify.app'> Donate IT Civil - React - Django-rest-framework 2023 <img align="center" src="star.png" height="30" width="30" /> </a> </li>
-  <li> <a href='https://flyease.silicornya.net/'> Flyease - React-django-rest-framework ( 2022-2023 ) <img align="center" src="star.png" height="30" width="30" /> </a> </li>
+  <li> <a href='https://grey-worm-profile.netlify.app'> Profile - Grey Worm - Reactjs - 2023 <img align="center" src="star.png" height="20" width="20" /> </a> </li>
+  <li> <a href='https://domain-it-civil.netlify.app'> Donate IT Civil - React - Django-rest-framework 2023 <img align="center" src="star.png" height="20" width="20" /> </a> </li>
+  <li> <a href='https://flyease.silicornya.net/'> Flyease - React-django-rest-framework ( 2022-2023 ) <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://github.com/arifkhan-silicornya/email_send_using_nodejs'> Email Sending System - Node - 2023   </a> </li>
-  <li> <a href='https://mastermind.travel'> Mastermind - React- React-django-rest-framework ( 2022-2023 ) <img align="center" src="star.png" height="30" width="30" /> </a> </li>
-  <li> <a href='https://cryptocornya-bot.netlify.app'> Crypto Bot - React- ( 2021-2022 ) <img align="center" src="star.png" height="30" width="30" /> </a> </li>
-  <li> <a href='https://arifkhan-silicornya.github.io/Crypto-Currency-Single-Page/'> Crypto-Currency-Single-Page - React - 2022 <img align="center" src="star.png" height="30" width="30" /> </a> </li>
+  <li> <a href='https://mastermind.travel'> Mastermind - React- React-django-rest-framework ( 2022-2023 ) <img align="center" src="star.png" height="20" width="20" /> </a> </li>
+  <li> <a href='https://cryptocornya-bot.netlify.app'> Crypto Bot - React- ( 2021-2022 ) <img align="center" src="star.png" height="20" width="20" /> </a> </li>
+  <li> <a href='https://arifkhan-silicornya.github.io/Crypto-Currency-Single-Page/'> Crypto-Currency-Single-Page - React - 2022 <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://hexa-shape.netlify.app/'> Responsive Hexa shape - React - 2021 </a> </li>
-  <li> <a href='https://github.com/arifkhan-silicornya/Fake_News'> Fake News Detection - Machine Learning - Crawling - Django - HTML, CSS, Javascript  -2021 <img align="center" src="star.png" height="30" width="30" /> </a> </li>
+  <li> <a href='https://github.com/arifkhan-silicornya/Fake_News'> Fake News Detection - Machine Learning - Crawling - Django - HTML, CSS, Javascript  -2021 <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://rock-paper-scissors-arif.netlify.app'> Rock Paper Scissor Game - React - 2021 </a> </li>
   <li> <a href='https://digital-clock-arif.netlify.app/'> Digital Clock Page - 2021 </a> </li>
   <li> <a href='https://react-login-page-arif.netlify.app'> React Login Page - 2021 </a> </li>
   <li> <a href='https://arif-todo-app.netlify.app'> React Todo App  - 2021 </a> </li>
-  <li> <a href='https://github.com/arifkhan-silicornya/pwdetection'> Phishing Website Detection - Machine Learning - Django - HTML, CSS, Javascript  -2020 <img align="center" src="star.png" height="30" width="30" /> </a> </li>
+  <li> <a href='https://github.com/arifkhan-silicornya/pwdetection'> Phishing Website Detection - Machine Learning - Django - HTML, CSS, Javascript  -2020 <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://arifkhan-silicornya.github.io/Defense/index.html'> Phishing Website Detection- static site  - 2020  </a> </li>
   <li> <a href='https://qr-code-generator-arif.netlify.app'> QR Code Generator - Vanilla Javascript -2019 </a> </li>
   <li> <a href='https://request-for-proposal-form.netlify.app'> Proposal Form - Vanilla Javascript - Laravel -2019 </a> </li>
   <li> <a href='https://mrxpert.netlify.app'> Mr Xpert - Reactjs - 2022 </a> </li>
-  <li> <a href='https://u-food.netlify.app'> U Food - HTML, CSS, Laravel  - 2021 <img align="center" src="star.png" height="30" width="30" /> </a> </li>
+  <li> <a href='https://u-food.netlify.app'> U Food - HTML, CSS, Laravel  - 2021 <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://github.com/arifkhan-silicornya/Class-and-Food-project-using-php'> Class-and-Food-project-using-php - HTML, CSS, PHP  - 2020 </a> </li>
   <li> <a href='https://github.com/arifkhan-silicornya/Insurance'> Insurance - PHP -2019 </a> </li>
   <li> <a href='https://analogue-wall-clock.netlify.app'> Analogue Wall Clock - Vanilla Javascript -2019  </a> </li>
