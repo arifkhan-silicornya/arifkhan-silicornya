@@ -16,6 +16,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
   <li> <a href='https://www.npmjs.com/package/airline-iata-code'> airline-iata-code </a> </li>
   <li> <a href='https://www.npmjs.com/package/filter-country-dial-code-flag'> filter-country-dial-code-flag </a> </li>
   <li> <a href='https://www.npmjs.com/package/country-currency-list'> country-currency-list </a> </li>
+  <li> <a href='https://www.npmjs.com/package/react-perfect-paginate'> React Perfect Paginate </a> </li>
   
 </ul>
 
