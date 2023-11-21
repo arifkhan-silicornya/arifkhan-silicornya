@@ -141,7 +141,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a style="margin:'2px';" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> </a> 
+  <a style="margin:'10px';" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
