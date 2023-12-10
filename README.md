@@ -22,6 +22,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
 
 <b>Small project list :</b>
 <ul>
+  <li> <a href=''> AI Assistant (Code Private) - 2023  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://black-bee-profile.netlify.app'> Profile - Black Bee - Reactjs - 2023  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://white-snow-profile.netlify.app/'> Profile - White Snow - Reactjs - 2023 <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://blue-sky-profile.netlify.app/'> Profile - Blue Sky - Reactjs - 2023  </a> </li>
