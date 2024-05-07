@@ -126,6 +126,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
 
 ![Profile views](https://gpvc.arturio.dev/arifkhan-silicornya)  
 
+<a href="https://arifkhanshanto.w3spaces.com/index.html"> w3Profile </a>
 
 <h3>integrated development environment (IDE)</h3>
   <p>i have experience working with these editor</p>
