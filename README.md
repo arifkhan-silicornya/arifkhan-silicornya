@@ -88,7 +88,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
   
 - 🔭 I’m currently working at Silicornya
 - 🌱 I’m currently working on a project using ( React + Django REST framework ) <br/>
-- Next => socket.io / WebRTC / scala
+- Next => socket.io / WebRTC / scala / cron job /
 
 
 
