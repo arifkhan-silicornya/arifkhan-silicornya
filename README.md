@@ -23,6 +23,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
 <b>Small project list :</b>
 <ul>
   
+  <li> <a href='https://tic-tac-toe-arif.netlify.app'> Tic Tac Toe Game Web - 2024  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://sudoku-web.netlify.app'> Sudoku Game Web - 2024  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://weather-forecast-bd.netlify.app'> Weather Forecast Bangladesh - 2024  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href=''> AI Assistant (Code Private) - 2023  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
