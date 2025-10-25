@@ -22,7 +22,8 @@ I am a software engineer and well-qualified full-stack web developer with more t
 
 <b>Small project list :</b>
 <ul>
-  
+  <li> <a href='https://dark-static-login-registration.netlify.app'> LOGIN PAGE- DARK BLUE -2025 </a> </li>
+  <li> <a href='https://static-login-registration.netlify.app'> LOGIN PAGE- LIGHT BLUE - 2025 </a> </li>
   <li> <a href='https://tic-tac-toe-arif.netlify.app'> Tic Tac Toe Game Web - 2024  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://sudoku-web.netlify.app'> Sudoku Game Web - 2024  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
   <li> <a href='https://weather-forecast-bd.netlify.app'> Weather Forecast Bangladesh - 2024  <img align="center" src="star.png" height="20" width="20" /> </a> </li>
@@ -60,8 +61,7 @@ I am a software engineer and well-qualified full-stack web developer with more t
   <li> <a href='https://image-hover-effact.netlify.app'> Image Hover Effact -Vanilla Javascript -2018 </a> </li>
   <li> <a href='https://arifkhan-silicornya.github.io/Carousel_Js/'> Simple HTML Carousel -Vanilla Javascript -2018 </a> </li>
   <li> <a href='https://eservices.imi.gov.my.myimmsvis.com'> myimmsvis.com - 2023 </a> </li>
-  <li> <a href='https://dark-static-login-registration.netlify.app'> LOGIN PAGE- DARK BLUE -2024 </a> </li>
-  <li> <a href='https://static-login-registration.netlify.app'> LOGIN PAGE- LIGHT BLUE </a> </li>
+  
   
   
   
