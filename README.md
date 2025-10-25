@@ -60,6 +60,8 @@ I am a software engineer and well-qualified full-stack web developer with more t
   <li> <a href='https://image-hover-effact.netlify.app'> Image Hover Effact -Vanilla Javascript -2018 </a> </li>
   <li> <a href='https://arifkhan-silicornya.github.io/Carousel_Js/'> Simple HTML Carousel -Vanilla Javascript -2018 </a> </li>
   <li> <a href='https://eservices.imi.gov.my.myimmsvis.com'> myimmsvis.com - 2023 </a> </li>
+  <li> <a href='https://dark-static-login-registration.netlify.app'> LOGIN PAGE- DARK BLUE -2024 </a> </li>
+  <li> <a href='https://static-login-registration.netlify.app'> LOGIN PAGE- LIGHT BLUE </a> </li>
   
   
   
